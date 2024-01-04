@@ -1,4 +1,4 @@
-% Load your dataset
+% Load dataset
 load('InputNNtrafo4.mat'); % Load the data into MATLAB
 PDRB = inputNNtrafo4{:, 7}; % 4th variable
 
